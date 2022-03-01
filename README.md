@@ -1,7 +1,7 @@
 # rocursor
 ## First, what's RoCursor?
 It's a tool that allows you to easily change the Roblox Cursor
-## How do i use it
+## How do i use it?
 You have to put it inside the Roblox folder to work
 ## How do I install packs?
 Run RoCursor one time, open the downloaded .zip file and move the folder inside C:\rocursor

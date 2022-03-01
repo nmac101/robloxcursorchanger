@@ -1,4 +1,4 @@
-# rocursor
+# RoCursor
 ## Download it here: https://nmac101.github.io/rocursor/
 ## First, what's RoCursor?
 It's a tool that allows you to easily change the Roblox Cursor
